@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently pursuing B-Tech-UG in GITAM (Deemed to be University)<br>I'm looking to collaborate on Technological improvement on my knowledge <br>I'm helping with the Vizag's biggest College Fest named SHORe'26 fest as a sponsorships lead<br>I'm currently learning programming using python to solve real world problems<br>Fun fact about me-- I love to interact with new people and work with new people <br>
+## About Me
+Pursuing B.Tech in Computer Science at GITAM (Deemed to be University)<br>
+Passionate about learning and collaborating on innovative technologies<br>
+Led a 5-member team in Vizag’s biggest fest, Shore Fest, as Sponsorship Lead<br>  
+Currently exploring Python to solve real-world problems<br>  
+Enthusiastic about meeting new people and working on impactful projects<br>
+
 
 
 ## 🌐 Socials:
