@@ -2,7 +2,7 @@
 ## About Me
 Pursuing B.Tech in Computer Science at GITAM (Deemed to be University)<br>
 Passionate about learning and collaborating on innovative technologies<br>
-Led a 5-member team in Vizag’s biggest fest, Shore Fest, as Sponsorship Lead 
+Led a 5-member team in Vizag’s biggest fest, Shore Fest, as Sponsorship Lead<b>
 Currently exploring Python to solve real-world problems<br>  
 Enthusiastic about meeting new people and working on impactful projects<br>
 
